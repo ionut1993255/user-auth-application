@@ -9,7 +9,7 @@ I stored the password in Firebase Auth with the help of "POST" method.
 
 I used HTML5, CSS3, JS ES6, React and React Router DOM in order to implement the logic of the application.
 
-Check out the custom favicon *wink *wink
+Check out the custom favicon 😉
 
 Here you can see my project in action: https://user-auth-application.netlify.app/
 
